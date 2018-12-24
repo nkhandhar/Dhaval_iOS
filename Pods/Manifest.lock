@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.0)
+  - SKActivityIndicatorView (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+
+PODFILE CHECKSUM: 140e6e9611104a728ee75e3977368a783ac492a2
+
+COCOAPODS: 1.5.3
